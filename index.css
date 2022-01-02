@@ -3,3 +3,12 @@
     width: 60%;
     display: flex;
 }
+
+.heart{
+    margin:auto;
+    padding:auto;
+    font-weight:bold;
+    color:crimson;
+    margin-top:10px;
+    text-align:center;
+}
